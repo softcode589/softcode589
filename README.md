@@ -1,10 +1,17 @@
-<h3 align="center">A documentation writer (and kinda programs)</h3>
+Hello, I'm softcode589. I like to write documentation rather than develop applications.
 
-- 🔭 I’m currently working on [ReviveMCiOS](https://github.com/revivemcios)
+## Docs I write for
+* [Pulsar](https://github.com/pulsar-edit) - I mostly triage issues and pull requests here
+  * [Pulsar Subreddit](https://reddit.com/r/pulsaredit/) - I created the subreddit, and made the wiki for it
+* and nothing else...
 
-- 🌱 I’m currently learning **Bootstrap components**
+## Look at my stuff
+**GitHub STATS**
 
-- ⚡ Fun fact **I have been invited to Pulsar Edit**
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=softcode589)](https://github.com/anuraghazra/github-readme-stats)
 
-## Markups
-- Markdown
+**Some Personal and Org Repositories** *Some stuff is from Pulsar*
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=softcode589&repo=git-sandbox)](https://github.com/anuraghazra/github-readme-stats) *Git sandbox is too simple*
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pulsar-edit&repo=pulsar-edit.github.io)](https://github.com/anuraghazra/github-readme-stats) *Where I write for Pulsar, and triage issues and PRs there*
